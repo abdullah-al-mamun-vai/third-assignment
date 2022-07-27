@@ -2,3 +2,16 @@
     width: 200px;
     height: 200px;
 }
+
+.overlayer {
+    filter: brightness(50%);
+}
+
+@media screen and (min-width:991px) {
+
+    .carousel-align {
+        bottom: 8.25rem;
+    }
+
+
+}
